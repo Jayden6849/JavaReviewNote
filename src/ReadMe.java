@@ -1,5 +1,10 @@
 public class ReadMe {
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+        /*
+
+        This is a repository for managing Java exercises.
+        The purpose is to solve the problem in various ways.
+
+         */
     }
 }
