@@ -1,4 +1,4 @@
-package Ch12;
+package ch12;
 
 enum Direction {
     EAST, SOUTH, WEST, NORTH

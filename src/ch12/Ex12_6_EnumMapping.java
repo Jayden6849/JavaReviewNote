@@ -1,4 +1,4 @@
-package Ch12;
+package ch12;
 
 enum Dir {
     EAST(1, ">"), SOUTH(2, "v"), WEST(3, "<"), North(4,"^");
@@ -30,7 +30,6 @@ enum Dir {
 
         return DIR_ARR[((value-1)+num)%4];
     }
-
     @Override
     public String toString() {
         return name() + "(" + getSymbol() + ")";
