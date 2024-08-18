@@ -1,6 +1,6 @@
 package ch02;
 
-public class Ex2_6 {
+public class Ex2_6_DataType {
     public static void main(String[] args) {
         int x = 100;
         double pi = 3.14;

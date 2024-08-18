@@ -1,0 +1,14 @@
+package ch03;
+
+public class Ex3_6_FourBasicOperator {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 4;
+
+        System.out.printf("%d + %d = %d%n", a, b, a+b);
+        System.out.printf("%d - %d = %d%n", a, b, a-b);
+        System.out.printf("%d * %d = %d%n", a, b, a*b);
+        System.out.printf("%d / %d = %d%n", a, b, a/b);
+        System.out.printf("%d / %.0f = %f%n", a, (float)b, a/(float)b);
+    }
+}

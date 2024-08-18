@@ -1,6 +1,6 @@
 package ch02;
 
-public class Ex2_7 {
+public class Ex2_7_Concatenate {
     public static void main(String[] args) {
         String name = "Ja" + "va";
         String str = name + 8.0;

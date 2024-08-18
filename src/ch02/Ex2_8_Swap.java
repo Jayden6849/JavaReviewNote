@@ -1,6 +1,6 @@
 package ch02;
 
-public class Ex2_8 {
+public class Ex2_8_Swap {
     public static void main(String[] args) {
         int x = 10;
         int y = 5;
