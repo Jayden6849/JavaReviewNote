@@ -1,6 +1,5 @@
 package ch05;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ex5_10_Array2D3 {
